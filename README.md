@@ -10,6 +10,8 @@
 
 ## Introdução ao Redux
 
+0. [Introdução](redux/0-introducao.md)
+0. [Primeiro App](redux/1-primeiro-app.md)
 
 ## Referências
 
