@@ -7,6 +7,7 @@
 1. [Propriedades de componentes](react/2-props.md)
 1. [Componentes com estado](react/3-state.md)
 1. [Inputs e `ref`](react/4-input-ref.md)
+1. [Lifecycle methods](react/5-lifecycle.md)
 
 ## Introdução ao Redux
 
@@ -16,6 +17,7 @@
 ## Referências
 
 * Site oficial: https://facebook.github.io/react/
-* Video curso React [en]: https://egghead.io/courses/start-learning-react
-* Vídeo curso Redux [en]: https://egghead.io/courses/getting-started-with-redux
-* Redux Journey (Vídeo) [en]: https://www.youtube.com/watch?v=uvAXVMwHJXU
+* Curso (Vìdeo) [en] - Start learning React: https://egghead.io/courses/start-learning-react
+* Curso (Vídeo) [en] - Getting Started with Redux: https://egghead.io/courses/getting-started-with-redux
+* Curso (Vídeo) [en] - Building React Applications with Idiomatic Redux: https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+* Redux Journey (Talk) [en]: https://www.youtube.com/watch?v=uvAXVMwHJXU
