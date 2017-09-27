@@ -3,8 +3,9 @@
 [![Edit 24rkww8k9p](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/24rkww8k9p)
 
 * `state`
+* `constructor`
 * `setState`
-* Virtual DOM / render
+* Virtual DOM / render / Reconciliation
 * `bind`
 * `props` vs `state`
 
@@ -19,3 +20,4 @@
 ## Referências
 
 * https://facebook.github.io/react/docs/state-and-lifecycle.html
+* https://facebook.github.io/react/docs/reconciliation.html

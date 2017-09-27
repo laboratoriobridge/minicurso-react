@@ -18,3 +18,4 @@
 * Site oficial: https://facebook.github.io/react/
 * Video curso React [en]: https://egghead.io/courses/start-learning-react
 * Vídeo curso Redux [en]: https://egghead.io/courses/getting-started-with-redux
+* Redux Journey (Vídeo) [en]: https://www.youtube.com/watch?v=uvAXVMwHJXU
