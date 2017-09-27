@@ -14,7 +14,7 @@
 
 ## Exercício 
 
-[![Edit 1 - Counter com Redux](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/q7rp43m8r6)
+[![Edit 2 - Counter com Redux](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/5m3r03r4yn)
 
 ## Referências
 
