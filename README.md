@@ -8,6 +8,7 @@
 1. [Componentes com estado](react/3-state.md)
 1. [Inputs e `ref`](react/4-input-ref.md)
 1. [Lifecycle methods](react/5-lifecycle.md)
+1. [Desafio final](react/6-mini-app.md)
 
 ## Introdução ao Redux
 
