@@ -17,7 +17,9 @@
 
 ## Referências
 
-* Site oficial: https://facebook.github.io/react/
+* Site oficial React: https://facebook.github.io/react/
+* Site oficial Redux: http://redux.js.org/
+* ES6 Features: http://es6-features.org
 * Curso (Vìdeo) [en] - Start learning React: https://egghead.io/courses/start-learning-react
 * Curso (Vídeo) [en] - Getting Started with Redux: https://egghead.io/courses/getting-started-with-redux
 * Curso (Vídeo) [en] - Building React Applications with Idiomatic Redux: https://egghead.io/courses/building-react-applications-with-idiomatic-redux
