@@ -16,7 +16,7 @@
 
 ![Diagrama](assets/mvc.png)
 
-## Princípios
+## Princípios :pray:
 
 1. Single Immutable State Tree (single source of truth)
 1. State é read-only e só é mutado com Actions (objeto que representa uma mutação de estado)
