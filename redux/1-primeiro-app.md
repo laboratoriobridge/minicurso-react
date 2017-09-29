@@ -2,19 +2,23 @@
 
 [![Edit 1 - App com Redux](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/q7rp43m8r6)
 
-- Actions
-- Reducer
 - Store
+    - `getState()`
+    - `dispatch(action)`
+    - `subscribe(listener)`
+- Action creators
 
-## Três princípios
+![Diagrama](assets/diagrama.png)
 
-- Fonte única de informação
-- O estado é somente leitura
-- As alterações são feitas com funções "puras"
+![Diagrama](assets/react-redux.png)
 
 ## Exercício 
 
 [![Edit 2 - Counter com Redux](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/5m3r03r4yn)
+
+~15min
+
+* Adicione a funcionalidade de "decrementar" usando os padrões do Redux.
 
 ## Referências
 

@@ -5,6 +5,7 @@
 É uma arquitetura de fluxo unidirecional dos dados.
 
 ## Motivação
+
 - Dificuldades no gerenciamento do estado da aplicação em estruturas como MVC
 - Ex:
     - Clique em um botão
@@ -13,8 +14,14 @@
     - A alteração do Model B dispara uma alteração na View B
     - ...
 
-## Como funciona?
-![Diagrama](https://cdn-images-1.medium.com/max/1600/1*CBfav7WP_SuV_UV87N1_Og.png)
+![Diagrama](assets/mvc.png)
+
+## Princípios
+
+1. Single Immutable State Tree (single source of truth)
+1. State é read-only e só é mutado com Actions (objeto que representa uma mutação de estado)
+1. As mutações de estado são realizadas através de uma função pura, chamada `reducer`:
+    * `reducer(state, action) => newState`
 
 ## Referências
 
