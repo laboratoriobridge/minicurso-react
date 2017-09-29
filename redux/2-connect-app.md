@@ -8,7 +8,13 @@
 
 ## Exercício 
 
-[![Edit 2 - Conectando a aplicação com o store](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/4xmj2y2mww)
+1. Criar uma função chamada mapStateToProps que retorne um objeto contendo um atributo items. Esse atributo conterá os items armazenados no state da aplicação e que serão inseridos na tabela;
+2. Criar uma função chamada mapDispatchToProps que retorne um objeto contendo como atributo uma função adicionarItem. A função adicionarItem deve receber por parâmetro o item a ser adicionado e deve disparar uma action;
+A action disparada deve ser a ADD_ITEM que deverá atualizar o state da aplicação com o item inserido.;
+3. Passar ambas as funções criadas para o connect;
+4. Instanciar o componente Table passando a ele uma prop items que deverá receber os items do state;
+5. Testar a aplicação.
+
 
 ## Referências
 
