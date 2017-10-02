@@ -1,6 +1,10 @@
 # Mini curso de React e Redux
 
-## Introdução ao React
+## Introdução
+
+- Apresentação: [Link](https://docs.google.com/a/bridge.ufsc.br/presentation/d/1UXH6NfU7cAVAuThmMysTq6PRU580aQmp6iHQGYS--1Q/edit?usp=sharing) | [PDF](presentation.pdf)
+
+## React
 
 0. [Iniciando uma aplicação com `create-react-app`](react/0-setup.md)
 1. [Seu primeiro componente React](react/1-primeiro-componente.md)
@@ -10,7 +14,7 @@
 1. [Lifecycle methods](react/5-lifecycle.md)
 1. [Desafio final](react/6-mini-app.md)
 
-## Introdução ao Redux
+## Redux
 
 0. [Introdução e os 3 princípios do Redux](redux/0-introducao.md)
 0. [Primeiro App](redux/1-primeiro-app.md)
