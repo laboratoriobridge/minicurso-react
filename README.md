@@ -14,7 +14,8 @@
 
 0. [Introdução e os 3 princípios do Redux](redux/0-introducao.md)
 0. [Primeiro App](redux/1-primeiro-app.md)
-0. [Conectando App à Store](redux/2-connect-app.md)
+0. [Conectando Counter à Store](redux/2-counter-connect.md)
+0. [Conectando App à Store](redux/3-connect-app.md)
 
 ## Referências
 
