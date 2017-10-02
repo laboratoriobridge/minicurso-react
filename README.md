@@ -20,6 +20,7 @@
 0. [Primeiro App](redux/1-primeiro-app.md)
 0. [Conectando Counter à Store](redux/2-counter-connect.md)
 0. [Conectando App à Store](redux/3-connect-app.md)
+1. [Desafio final](redux/4-desafio-final.md)
 
 ## Referências
 
