@@ -1,4 +1,4 @@
-# 2 - Conectando a aplicação com o store
+# 3 - Conectando a aplicação com o store
 
 [![Edit 2 - Conectando a aplicação com o store](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/k3k2z4rnjr)
 
