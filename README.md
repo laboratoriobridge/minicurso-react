@@ -2,27 +2,49 @@
 
 ## Seu primeiro componente React
 
-- CodeSandbox: https://codesandbox.io/s/vanilla
+> A JavaScript library for building user interfaces
+
 - React createElement API
+  - Exemplos: https://reactjs.org/
 - JSX
+- node / webpack
+- create-react-app (https://github.com/facebook/create-react-app)
+- CodeSandbox (https://codesandbox.io/s/new)
 - Props
 - React com Typescript
 - Render / Render condicional
 
-Exercício: (TODO) criar um appzinho com alguns componentes com props variáveis
+Exercício:
+
+1. Crie um novo react app no code sandbox (https://codesandbox.io/s/new)
+2. Faça seu app renderizar na tela 3 linhas, cada uma contendo o texto "Olá, [nome de uma pessoa qualquer]".
+3. Utilize componentes para evitar duplicação de código.
+4. Inclua tipos nas props do componentes criado, utilizando typescript
+5. Inclua outras props no componente (por exemplo, idade, cidade natal etc) e imprima essas informações
+6. Inclua um _render condition_ em seu componente. Sugestão: se a cidade natal da pessoa for "Florianópolis", renderize toda a linha em _bold_ (você pode utilizar a tag HTML `<strong>` para isso)
 
 ## Component states
 
 - State
 - Class components / Lifecycle methods
+- Eventos HTML
 
-Exercício: (TODO) criar algum componente(s) que tenha state interno
-Exercício: (TODO) passar o state de um componente como prop de outro componente mais interno
+Exercício 1:
+
+1. Crie um app em react no code sandbox que renderize três botões contadores
+1. O conteúdo (texto) de cada botão é o valor atual de seu contador
+1. Cada contador inicia com o valor `0`
+1. O contador do botão é incrementado em `1` toda vez que o botão for clicado
+1. Inclua uma label ao lado do botão que indique se o seu valor é ímpar ou par
+
+Exercício 2:
+
+1. Modifique seu app anterior para fazer com que, caso a soma de todos os contadores seja maior que `10`, seja emitido um alerta.
 
 ## CSS e DOM
 
 - CSS
-- Inputs / Events
+- Inputs
 - Refs / Manipulação de DOM
 - Usando os componentes do Bold
 
