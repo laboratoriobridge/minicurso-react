@@ -1,25 +1,70 @@
-# Mini curso de React e Redux
+# Dia 1 - React, Typescript e Bold
 
-## Introdução
+## Seu primeiro componente React
 
-- Apresentação: [Link](https://docs.google.com/a/bridge.ufsc.br/presentation/d/1UXH6NfU7cAVAuThmMysTq6PRU580aQmp6iHQGYS--1Q/edit?usp=sharing) | [PDF](presentation.pdf)
+- CodeSandbox: https://codesandbox.io/s/vanilla
+- React createElement API
+- JSX
+- Props
+- React com Typescript
+- Render / Render condicional
 
-## React
+Exercício: (TODO) criar um appzinho com alguns componentes com props variáveis
 
-0. [Iniciando uma aplicação com `create-react-app`](react/0-setup.md)
-1. [Seu primeiro componente React](react/1-primeiro-componente.md)
-1. [Propriedades de componentes](react/2-props.md)
-1. [Componentes com estado](react/3-state.md)
-1. [Inputs e `ref`](react/4-input-ref.md)
-1. [Lifecycle methods](react/5-lifecycle.md)
-1. [Desafio final](react/6-mini-app.md)
+## Component states
 
-## Referências
+- State
+- Class components / Lifecycle methods
+
+Exercício: (TODO) criar algum componente(s) que tenha state interno
+Exercício: (TODO) passar o state de um componente como prop de outro componente mais interno
+
+## CSS e DOM
+
+- CSS
+- Inputs / Events
+- Refs / Manipulação de DOM
+- Usando os componentes do Bold
+
+Exercício: (TODO) pegar valores de um input e colocar numa lista
+
+## Integrando com APIs
+
+- useEffect
+- HTTP Requests
+
+Exercício: (TODO) consumir recursos a partir de uma API JSON pública
+
+## Avançado
+
+- Valores de Forms (final-form, useFormState?)
+- Render props / High order components / extração para hooks
+- Context API
+
+Exercício: (TODO)
+
+# Dia 2 - GraphQL (Apollo) e frontend do PEC
+
+## GraphQL / Apollo
+
+- Apollo
+- GraphiQL PEC
+- Configuração do client do Apollo
+- Queries
+- Mutations
+
+Exercício: (TODO)
+
+## PEC
+
+- Estrutura de arquivos
+- Roteamento (com react-router)
+- Criando funcionalidades no PEC
+
+Exerício: (TODO)
+
+# Referências / Material de estudo
 
 - Site oficial React: https://facebook.github.io/react/
-- Site oficial Redux: http://redux.js.org/
-- ES6 Features: http://es6-features.org
-- Curso (Vìdeo) [en] - Start learning React: https://egghead.io/courses/start-learning-react
-- Curso (Vídeo) [en] - Getting Started with Redux: https://egghead.io/courses/getting-started-with-redux
-- Curso (Vídeo) [en] - Building React Applications with Idiomatic Redux: https://egghead.io/courses/building-react-applications-with-idiomatic-redux
-- Redux Journey (Talk) [en]: https://www.youtube.com/watch?v=uvAXVMwHJXU
+- Tutorial: Intro to React (https://reactjs.org/tutorial/tutorial.html)
+- Curso (Vídeo) - The Beginner's Guide to React: https://egghead.io/courses/the-beginner-s-guide-to-react
