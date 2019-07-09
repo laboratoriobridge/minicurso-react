@@ -39,7 +39,7 @@ Exercício 1:
 
 Exercício 2:
 
-1. Modifique seu app anterior para fazer com que, caso a soma de todos os contadores seja maior que `10`, seja emitido um alerta.
+1. Modifique seu app anterior para fazer com que, caso a soma de todos os contadores seja maior que `10`, seja emitido um alerta
 
 ## CSS e DOM
 
@@ -48,14 +48,22 @@ Exercício 2:
 - Refs / Manipulação de DOM
 - Usando os componentes do Bold
 
-Exercício: (TODO) pegar valores de um input e colocar numa lista
+Exercício:
+
+1. Estilize a label par/ímpar em verde/azul usando styles/css puro
+1. Troque os botões por inputs e a cada alteração de valor, utilize o mesmo label pra indicicar se é par ou ímpar
+1. Utilizando os componentes do Bold, implemente um formulário com um único campo. Ao submeter o formulário, adicione o valor e uma lista, limpe o campo e mostre a lista
 
 ## Integrando com APIs
 
 - useEffect
 - HTTP Requests
 
-Exercício: (TODO) consumir recursos a partir de uma API JSON pública
+Exercício:
+
+1. Usando a api do [JSONPlaceholder](https://jsonplaceholder.typicode.com/) liste os posts em uma tabela com as colunas: id, userId, title e actions
+1. Na coluna `actions` adicione um link de detalhes
+1. Ao clicar no link de `detalhes` o usuário deve ser direcionado para a tela de detalhes do post com: id, userId, title e body
 
 ## Avançado
 
@@ -63,7 +71,13 @@ Exercício: (TODO) consumir recursos a partir de uma API JSON pública
 - Render props / High order components / extração para hooks
 - Context API
 
-Exercício: (TODO)
+Exercício 1 (Forms):
+
+1. Implemente um formulário para inserir um post com `useFormState`. Ao submeter o formulário, volte para a lista de posts
+
+Exercício 2 (Context API):
+
+1. Implementar um breadcrumb, não precisa ser navegável
 
 # Dia 2 - GraphQL (Apollo) e frontend do PEC
 
