@@ -46,13 +46,25 @@ Exercício 2:
 - CSS
 - Inputs
 - Refs / Manipulação de DOM
-- Usando os componentes do Bold
 
-Exercício:
+Exercício 1:
 
 1. Estilize a label par/ímpar em verde/azul usando styles/css puro
 1. Troque os botões por inputs e a cada alteração de valor, utilize o mesmo label pra indicicar se é par ou ímpar
-1. Utilizando os componentes do Bold, implemente um formulário com um único campo. Ao submeter o formulário, adicione o valor e uma lista, limpe o campo e mostre a lista
+
+## Formulários
+
+- Usando os componentes do Bold
+- Valores de Forms (`final-form`, `useFormState`)
+
+Exercício:
+
+1. Utilizando os componentes do Bold, implemente um formulário com um único campo de texto, um botão de submissão e uma lista inicalmente vazia
+1. Ao submeter o formulário, adicione o valor na lista e limpe o campo.
+
+Exerício 2:
+
+1. Implemente o mesmo app, porém utilizando a lib `use-form-state` (https://github.com/wsmd/react-use-form-state)
 
 ## Integrando com APIs
 
@@ -61,23 +73,17 @@ Exercício:
 
 Exercício:
 
-1. Usando a api do [JSONPlaceholder](https://jsonplaceholder.typicode.com/) liste os posts em uma tabela com as colunas: id, userId, title e actions
-1. Na coluna `actions` adicione um link de detalhes
-1. Ao clicar no link de `detalhes` o usuário deve ser direcionado para a tela de detalhes do post com: id, userId, title e body
+1. Usando a api do [JSONPlaceholder](https://jsonplaceholder.typicode.com/) liste os posts em uma tabela com as colunas: `id`, `userId` e `title`
+
+Exerício 2:
+
+1. Crie uma coluna de `actions` e adicione um link de detalhes
+1. Ao clicar no link de `detalhes` o usuário deve ser direcionado para uma outra tela de detalhes do post com: `id`, `userId`, `title` e `body`
 
 ## Avançado
 
-- Valores de Forms (final-form, useFormState?)
 - Render props / High order components / extração para hooks
 - Context API
-
-Exercício 1 (Forms):
-
-1. Implemente um formulário para inserir um post com `useFormState`. Ao submeter o formulário, volte para a lista de posts
-
-Exercício 2 (Context API):
-
-1. Implementar um breadcrumb, não precisa ser navegável
 
 # Dia 2 - GraphQL (Apollo) e frontend do PEC
 
