@@ -55,55 +55,51 @@ Exercício 1:
 ## Formulários
 
 - Usando os componentes do Bold
-- Valores de Forms (`final-form`, `useFormState`)
+- Valores de Forms (`final-form`)
 
 Exercício:
 
+1. Realize o exercício a partir de: https://codesandbox.io/s/bold-with-fields-kdlth
 1. Utilizando os componentes do Bold, implemente um formulário com um único campo de texto, um botão de submissão e uma lista inicalmente vazia
 1. Ao submeter o formulário, adicione o valor na lista e limpe o campo.
-
-Exerício 2:
-
-1. Implemente o mesmo app, porém utilizando a lib `use-form-state` (https://github.com/wsmd/react-use-form-state)
 
 ## Integrando com APIs
 
 - useEffect
 - HTTP Requests
+- Promises
+- Async renders
 
 Exercício:
 
 1. Usando a api do [JSONPlaceholder](https://jsonplaceholder.typicode.com/) liste os posts em uma tabela com as colunas: `id`, `userId` e `title`
+2. Você pode utilizar o método `fetch` nativo do browser para realizar a requisição
 
 Exerício 2:
 
 1. Crie uma coluna de `actions` e adicione um link de detalhes
 1. Ao clicar no link de `detalhes` o usuário deve ser direcionado para uma outra tela de detalhes do post com: `id`, `userId`, `title` e `body`
 
-## Avançado
-
-- Render props / High order components / extração para hooks
-- Context API
-
 # Dia 2 - GraphQL (Apollo) e frontend do PEC
 
 ## GraphQL / Apollo
 
 - Apollo
-- GraphiQL PEC
+- GraphiQL PEC: http://teste.pec.esusab.ufsc.br/graphiql
 - Configuração do client do Apollo
 - Queries
 - Mutations
 
-Exercício: (TODO)
+Exercício:
+
+1. Crie uma aplicação a partir do sandbox: https://codesandbox.io/s/bold-with-apollo-2ig84
+1. Liste os CBOs (apenas a primeira página), informando seu nome e se ele está disponível para lotação
+1. Implemente a funcionalidade de disponibilizar/indisponibilizar o CBO para lotação através das mutations já existentes
 
 ## PEC
 
 - Estrutura de arquivos
 - Roteamento (com react-router)
-- Criando funcionalidades no PEC
-
-Exerício: (TODO)
 
 # Referências / Material de estudo
 
